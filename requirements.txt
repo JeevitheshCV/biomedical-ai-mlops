@@ -2,3 +2,5 @@ pandas
 google-cloud-bigquery
 google-auth
 ftfy
+python-dotenv
+db-dtypes
